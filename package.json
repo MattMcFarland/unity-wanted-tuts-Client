@@ -1,0 +1,20 @@
+{
+  "name": "@mattmcfarland/unity-wanted-tuts-client",
+  "version": "0.0.1",
+  "description": "Clientside build for unity.wanted-tuts.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MattMcFarland/unity-wanted-tuts-Client.git"
+  },
+  "author": "Matt McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattMcFarland/unity-wanted-tuts-Client/issues"
+  },
+  "homepage": "https://github.com/MattMcFarland/unity-wanted-tuts-Client#readme"
+}
+
